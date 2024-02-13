@@ -17,6 +17,7 @@ namespace _2024_02_13_DataGridView
             OrszagNev = orszagNev;
             Fovaros = fovaros;
             Terulet = terulet;
+
         }
     }
 }
